@@ -28,3 +28,8 @@ Raw data images are in the "selected_data" zip file
 Augmented data images are in the "augmented_data" zip file
 
 ## Acknowledgement
+Prof. Raschka's instruction 
+
+## Course Homepage
+
+http://pages.stat.wisc.edu/~sraschka/teaching/stat479-fs2018/
